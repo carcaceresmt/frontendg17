@@ -1,9 +1,8 @@
-import UserComponente from "./components/user/Usercomponente";
-import Mostrarcomponente from "./components/user/Mostrarcomponente";
+import Menu from "./components/menu/Menu";
 function App() {
   return (
     <div >
-      <Mostrarcomponente></Mostrarcomponente>
+      <Menu></Menu>
     </div>
   );
 }
